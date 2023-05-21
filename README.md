@@ -16,3 +16,8 @@ Predict the apple stock market price for next 30 days.  There are Open, High, Lo
 <div align="center">
     <img src="https://github.com/ShubhamMore4/Project-Stock_Price_Prediction/blob/master/Images/Model%20Evaulation.JPG" height= "200" width="600" />
 </div>
+
+### `Model Deployment:`
+<div align="center">
+    <img src="https://github.com/ShubhamMore4/Project-Stock_Price_Prediction/blob/master/Images/deployment.JPG" height= "300" width="600" />
+</div>
