@@ -11,13 +11,21 @@ Predict the apple stock market price for next 30 days.  There are Open, High, Lo
 <div align="center">
     <img src="https://github.com/ShubhamMore4/Project-Stock_Price_Prediction/blob/master/Images/Arima%20Model.JPG" height= "300" width="600" />
 </div>
+<p>&#x2022; One of the essential step of Time Series analysis is to ensure that the data is in a regular time series format with equal time intervals.</p>
+<p>&#x2022; Building a Machine learning model for Stock Forcasting using Python and Time Series forecasting models.</p>
+<p>&#x2022; The ARIMA (AutoRegressive Integrated Moving Average) model is a popular time series forecasting technique that can be used to predict future values based on historical data.</p>
+<p>&#x2022; The aim of this project is achieved by performing the various data analysis methods and by using Time Series forcasting techniques we'll Predict future values and build forecasting model</p>
+
 
 ### `Model Evaluation:`
 <div align="center">
     <img src="https://github.com/ShubhamMore4/Project-Stock_Price_Prediction/blob/master/Images/Model%20Evaulation.JPG" height= "200" width="600" />
 </div>
+<p>&#x2022; SARIMA(Montly) Model has been selected for Deployment for its Better performance compared to other models with good MAPE and RMSE Score.</p>
+
 
 ### `Model Deployment:`
 <div align="center">
     <img src="https://github.com/ShubhamMore4/Project-Stock_Price_Prediction/blob/master/Images/deployment.JPG" height= "300" width="600" />
 </div>
+<p>&#x2022; Model deployed using Streamlit. </p>
