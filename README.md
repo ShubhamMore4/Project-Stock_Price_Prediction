@@ -8,5 +8,5 @@ Predict the apple stock market price for next 30 days.  There are Open, High, Lo
 
 #### `ARIMA Pipline:`
 <div align="center">
-    <img src="https://github.com/ShubhamMore4/Project-Stock_Price_Prediction/blob/master/Images/Stock%20Price%20image.JPG" height= "300" width="600" />
+    <img src="https://github.com/ShubhamMore4/Project-Stock_Price_Prediction/blob/master/Images/Arima%20Model.JPG" height= "300" width="600" />
 </div>
